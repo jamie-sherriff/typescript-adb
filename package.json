@@ -1,0 +1,11 @@
+{
+  "name": "typescript-adb",
+  "version": "0.0.1",
+  "dependencies": {
+    "lodash": "^4.17.4",
+  },
+  "devDependencies": {
+    "tslint": "^5.0.0",
+    "typescript": "^2.2.2"
+  }
+}
